@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Metronom</string>
+    <string name="title_activity_rhythm">Rhythm</string>
+    <string name="title_activity_sound">Sound</string>
+    <string name="title_activity_help">Help</string>
+    <string name="title_activity_top_bar">TopBar</string>
+    <string name="title_activity_metronom_service">MetronomService</string>
+    <string name="title_activity_main_service">MainService</string>
+</resources>
